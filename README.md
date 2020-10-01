@@ -1,9 +1,9 @@
 <h2> Hi, 👋 I'm Gopesh<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
-<!--<p><em>Software Enginner at <a href="http://www.advarisk.com"> 🔭 Advarisk  </a><img src="https://media0.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif?cid=ecf05e47ei4y7irkcmwjqsevx42bh2fakf436zer7ivam3ag&rid=giphy.gif" width="30">
+<!--<p><em>Software Enginner at <a href="#"> 🔭 Advarisk  </a><img src="https://media0.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif?cid=ecf05e47ei4y7irkcmwjqsevx42bh2fakf436zer7ivam3ag&rid=giphy.gif" width="30">
 </em></p>-->
 
-[![Linkedin: Gopesh ](https://img.shields.io/badge/-Gopesh -blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopesh-yadav-331a49128/)](https://www.linkedin.com/in/gopesh-yadav-331a49128/)
+[![Linkedin: Gopesh](https://img.shields.io/badge/-Gopesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopesh-yadav-331a49128/)](https://www.linkedin.com/in/gopesh-yadav-331a49128/)
 [![GitHub chavarera](https://img.shields.io/github/followers/Gopesh?label=follow&style=social)](https://github.com/Neptune998)
 [![StackoverFlow chavarera](https://img.shields.io/badge/-Gopesh-orange?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/9285533/nep-tune)](https://stackoverflow.com/users/9285533/nep-tune)
 

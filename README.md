@@ -4,16 +4,21 @@
 </em></p>-->
 
 [![Linkedin: Gopesh](https://img.shields.io/badge/-Gopesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopesh-yadav-331a49128/)](https://www.linkedin.com/in/gopesh-yadav-331a49128/)
-[![GitHub chavarera](https://img.shields.io/github/followers/Gopesh?label=follow&style=social)](https://github.com/Neptune998)
-[![StackoverFlow chavarera](https://img.shields.io/badge/-Gopesh-orange?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/9285533/nep-tune)](https://stackoverflow.com/users/9285533/nep-tune)
+[![GitHub Gopesh](https://img.shields.io/github/followers/Gopesh?label=follow&style=social)](https://github.com/Neptune998)
+[![StackoverFlow Gopesh](https://img.shields.io/badge/-Gopesh-orange?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/9285533/nep-tune)](https://stackoverflow.com/users/9285533/nep-tune)
 
 
 
 <h3>Quick Links</h3>
 <ul >
-  <li><a href="https://gist.github.com/discover">:computer: My Gists Related to programming. </a></li>
-  <li><a href="https://neptuneworld.in/courses/">  :computer: Python, Tableau and other courses. </a></li>
-  <li><a href="https://neptuneworld.in/blogs/">  :page_facing_up: Blogs on new latest technology. </a></li>
+  <li><a href="https://neptuneworld.in/blogs/">  :page_facing_up: Visit Website </a></li>
+  <li><a href="https://neptuneworld.in/tag/machine-learning/">  :computer: #ARTIFICIAL INTELLIGENCE </a></li>
+  <li><a href="https://neptuneworld.in/tag/gpt/">  :computer: #GPT </a></li>
+  <li><a href="https://neptuneworld.in/tag/aws/">  :computer: #AWS </a></li>
+  <li><a href="https://neptuneworld.in/tag/python/">  :computer: #PYTHON </a></li>
+  <li><a href="https://neptuneworld.in/tag/reactjs/">  :computer: #REACT.JS </a></li>
+  <li><a href="https://neptuneworld.in/tag/javascript/">  :computer: #JAVASCRIPT </a></li>
+  <li><a href="https://neptuneworld.in/tag/hackerrank/">  :computer: #HACKERRANK </a></li>
 </ul>
 <hr/>
  

@@ -12,13 +12,13 @@
 <h3>Quick Links</h3>
 <ul >
   <li><a href="https://neptuneworld.in/blogs/">  :page_facing_up: Visit Website </a></li>
-  <li><a href="https://neptuneworld.in/tag/machine-learning/">  :computer: #ARTIFICIAL INTELLIGENCE </a></li>
   <li><a href="https://neptuneworld.in/tag/gpt/">  :computer: #GPT </a></li>
   <li><a href="https://neptuneworld.in/tag/aws/">  :computer: #AWS </a></li>
   <li><a href="https://neptuneworld.in/tag/python/">  :computer: #PYTHON </a></li>
   <li><a href="https://neptuneworld.in/tag/reactjs/">  :computer: #REACT.JS </a></li>
   <li><a href="https://neptuneworld.in/tag/javascript/">  :computer: #JAVASCRIPT </a></li>
   <li><a href="https://neptuneworld.in/tag/hackerrank/">  :computer: #HACKERRANK </a></li>
+  <li><a href="https://neptuneworld.in/tag/machine-learning/">  :computer: #ARTIFICIAL INTELLIGENCE </a></li>
 </ul>
 <hr/>
  
